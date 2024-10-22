@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_profile_setting">ProfileSettingActivity</string>
+</resources>
